@@ -25,11 +25,10 @@
    ![alt text](https://res.cloudinary.com/s1n1s73r-k1773n/image/upload/v1624573451/rubber%20ducky/rd8_h1fqmp.jpg)
    
    ### Rubber Ducky Demo
-   
-   ![alt text]()
-   
-   
-   
+
+https://res.cloudinary.com/s1n1s73r-k1773n/video/upload/v1624573618/rubber%20ducky/RubberDuckyDemo_tnegs4.mp4  
+
+     
    ## WiFi-Pumpkin Framework 
    
    ### Evil Twin Attack

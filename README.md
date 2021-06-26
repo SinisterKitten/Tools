@@ -26,7 +26,8 @@
    
    ### Rubber Ducky Demo
 
-https://res.cloudinary.com/s1n1s73r-k1773n/video/upload/v1624573618/rubber%20ducky/RubberDuckyDemo_tnegs4.mp4  
+https://user-images.githubusercontent.com/50695633/123525846-a65de600-d688-11eb-8ff0-2033f1b45d27.mp4
+
 
      
    ## WiFi-Pumpkin Framework 
